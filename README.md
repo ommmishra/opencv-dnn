@@ -4,7 +4,7 @@ The model used here is Tenorflow-lite model(ssdlite_mobilenet_v2_coco) from the 
 Model Link: 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
-References:
-https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
-https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
+References:<br />
+https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API<br />
+https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/<br />
 https://github.com/rdeepc/ExploreOpencvDnn/
